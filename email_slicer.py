@@ -28,4 +28,4 @@ while True:
         print("Goodbye")
         break
     else:
-        print("Please enter 'y' or 'yes' for yes, or 'n' or 'no' for no.") 
+        print("Please enter 'y' or 'yes' for yes, or 'n' or 'no' for no.")
